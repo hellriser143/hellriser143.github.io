@@ -9,7 +9,7 @@ Developed @ One Month in NYC
 
 body {
 	/*background: url('../images/cookie-monster.jpg');*/
-	background: url('images/tulas.jpg');
+	background: url('..images/tulas.jpg');
 	/* the follow is the code to have the image display as a full page */
 	background-position: center;
 	background-attachment: fixed;
